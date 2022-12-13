@@ -1,0 +1,16 @@
+C:\Users\purpl\source\repos\Rommates\Rommates\bin\Debug\net5.0\Rommates.exe
+C:\Users\purpl\source\repos\Rommates\Rommates\bin\Debug\net5.0\Rommates.deps.json
+C:\Users\purpl\source\repos\Rommates\Rommates\bin\Debug\net5.0\Rommates.runtimeconfig.json
+C:\Users\purpl\source\repos\Rommates\Rommates\bin\Debug\net5.0\Rommates.runtimeconfig.dev.json
+C:\Users\purpl\source\repos\Rommates\Rommates\bin\Debug\net5.0\Rommates.dll
+C:\Users\purpl\source\repos\Rommates\Rommates\bin\Debug\net5.0\Rommates.pdb
+C:\Users\purpl\source\repos\Rommates\Rommates\obj\Debug\net5.0\Rommates.csproj.AssemblyReference.cache
+C:\Users\purpl\source\repos\Rommates\Rommates\obj\Debug\net5.0\Rommates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\purpl\source\repos\Rommates\Rommates\obj\Debug\net5.0\Rommates.AssemblyInfoInputs.cache
+C:\Users\purpl\source\repos\Rommates\Rommates\obj\Debug\net5.0\Rommates.AssemblyInfo.cs
+C:\Users\purpl\source\repos\Rommates\Rommates\obj\Debug\net5.0\Rommates.csproj.CoreCompileInputs.cache
+C:\Users\purpl\source\repos\Rommates\Rommates\obj\Debug\net5.0\Rommates.dll
+C:\Users\purpl\source\repos\Rommates\Rommates\obj\Debug\net5.0\refint\Rommates.dll
+C:\Users\purpl\source\repos\Rommates\Rommates\obj\Debug\net5.0\Rommates.pdb
+C:\Users\purpl\source\repos\Rommates\Rommates\obj\Debug\net5.0\Rommates.genruntimeconfig.cache
+C:\Users\purpl\source\repos\Rommates\Rommates\obj\Debug\net5.0\ref\Rommates.dll
